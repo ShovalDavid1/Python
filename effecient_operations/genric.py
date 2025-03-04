@@ -1,0 +1,2 @@
+# Copy object into clipboard
+# --------------------------
